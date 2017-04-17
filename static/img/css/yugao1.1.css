@@ -1,0 +1,21 @@
+@charset "utf-8";
+.yu_intro{height:76px;margin-bottom:20px;background:#fff}
+.yu_intro .area{background:url(../v1/ju/index/img/yugao_intro.png) no-repeat 100% center;_background-image:url(../v1/ju/index/img/yugao_intro_ie6.png);height:100%;text-align:left;*overflow:hidden}
+.yu_intro .info{width:500px;line-height:76px;height:76px;display:table-cell;vertical-align:middle;*margin-top:10px}
+.yu_intro .info h3{color:#e02f2f;font:20px/30px microsoft yahei}
+.yu_intro .info p{color:#555;line-height:16px}
+.yu_intro .info p a{color:#1b80a9}
+.deal{height:305px}
+.deal div h4{padding-bottom:0}
+.deal div{padding-bottom:10px}
+.deal div.addborder{border:1px solid #e2e2e2;border-color:#fff #e2e2e2 #e2e2e2 #fff;padding:1px 1px 30px 1px;background:#fff}.deal div.addborder h5,.deal div.addborder h6{display:none}
+.no_deals{margin-bottom:150px}
+.zt2 .kticon{display:block}
+.zt2 .ksicon,.zt2 .kttime{display:none}
+.zt2 div h4{padding-bottom:0}
+.zt2 div h4 a{display:none}
+.zt2 .dy_num{display:none;position:absolute;right:20px;color:#555;text-align:right;padding:10px 0}
+.zt2 .addborder .newicon{left:10px;top:10px}
+.zt2 .addborder .kttime{left:10px;top:178px}
+.zt2 .addborder .ksicon{top:145px;right:0}
+.zt2 .addborder .kticon{left:207px;top:272px}

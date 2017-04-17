@@ -1,0 +1,57 @@
+.dtit{width: 980px;float: left;height: 40px;font:22px/25px "微软雅黑";color:#333;overflow: hidden;border-bottom: 1px solid #d5d5d5;margin-bottom: 20px;}
+.dtit span{float: left;border-bottom: 5px solid #e73433;padding-bottom: 10px;}
+.border {border: 1px solid #e2e2e2;background-color: #fff;border-color:#fff #e2e2e2 #e2e2e2 #fff;}
+#contentC{margin-top: 20px;}
+#contentB{margin-top: 30px;}
+#contentC .dtit{margin-top: 20px;}
+#contentC .dealbox{z-index:50;}
+
+
+#contentA .brandbox{height: auto;}
+#contentA .brand{height:87px;width: 120px;float: left;border: 1px solid #e2e2e2;background-color: #fff;padding-top: 1px;border-color:#fff #e2e2e2 #e2e2e2 #fff}
+#contentA .brand p{width:98%;height: 20px;text-align: center;}
+#contentA .brand:hover{border: 1px solid #ef6060;}
+#contentA .brand img{margin-top: 10px;width: 80px;height: 40px;text-align:center}
+#contentA .ctinue{height:87px;width: 120px;float: left;border: 1px solid #e2e2e2;background-color: #fff;padding-top: 1px;font-size: 12px;color: #999;line-height:87px;border-color:#fff #e2e2e2 #e2e2e2 #fff;text-decoration: none;cursor: default;}
+
+#contentD{margin-top: 20px;height: 230px;background: #fff;}
+#contentD .brandad{height: 100%;float: left;}
+#contentD .brandad img{margin: 10px 10px;float: left;width: 640px;height: 210px;}
+#contentD .yh{width: 270px;height: 205px;float: right;margin: 10px 22px;}
+#contentD .border{height: 230px;}
+#contentD .yh img{float: left;margin: 12.5px 10px 12.5px 20px;}
+#contentD .tmail {position: relative;height: 60px;margin-left: 25px;}
+#contentD .tmail img{float:left;margin: 13px 5px 0px 0px;width: 70px;height: 35px;}
+#contentD .tmail span{font:14px "宋体";font-weight: bold;color: #333;float:left;margin-top: 13px;margin-left: 4px;}
+#contentD .tmail .ad{position: absolute;left: 75px;top:22px;font-size: 12px;font-weight: normal;color:#e02f2f;width: 157px;text-align: left;white-space: nowrap;text-overflow: ellipsis;overflow: hidden;}
+#contentD .yh h2{font:12px/18px "宋体";color: #666;float: left;text-align: left;height:150px;width: 100%;overflow: hidden;}
+#contentD .lq{background: url(../v1/ju/index/img/youhuiquan.png) no-repeat -20px -72px;margin-top: 5px;display: inline-block;height: 63px;width: 124px;float: left;text-align: center;position: relative;cursor: pointer;z-index: 1000;}
+#contentD .lw{background-position: -20px -8px;cursor: default;}
+#contentD .one{background-position: -392px -25px;cursor: default;width: 270px;cursor: pointer;}
+#contentD .lq.one em{padding-left: 15px;text-align: left;}
+#contentD .lq.one.lw {background-position: -392px -93px;cursor: default;}
+#contentD .yhs{float: right;}
+#contentD .lq em{display: block;margin-top: 10px}
+#contentD .lq span{display: block;margin-top: 3px;color: #e02f2f;}
+#contentD .lq strong{position: absolute;bottom: 5px;right: 5px;font-weight: normal;color: #333;}
+#contentD .lw em{color: #999;}
+#contentD .lw span{color: #999;}
+#contentD .lw strong{color: #999;}
+#contentD .sm{background: url(../v1/ju/index/img/youhuiquan.png) no-repeat -153px 0px;position: absolute;width: 228px;z-index: 9999;display: none;cursor: default;}
+#contentD .sm h1{margin-top: 20px;color: #666;padding: 0 10px;line-height: 20px;text-align: left;word-break:break-all;}
+#contentD .sm ol{margin-top:5px;color: #666;padding: 0 10px;line-height: 20px;text-align: left;}
+#contentD .sm .smf{background: url(../v1/ju/index/img/youhuiquan.png) no-repeat -153px -431px;height: 10px;overflow: hidden;}
+#contentD .dlon .sm{display: block;top:55px;left: -55px;}
+#contentD .one.dlon .sm{display: block;top:55px;left: 22px;}
+#contentD .sm a{background: url(../v1/ju/index/img/youhuiquan.png) no-repeat -15px bottom;position: absolute;height: 20px;width: 15px;top: 20px;right: 6px;}
+#contentD a.lq{text-decoration: none;}
+#contentD .tmailtag{background: url(../v1/ju/index/img/youhuiquan.png) no-repeat -395px -165px;width: 17px;height: 16px;}
+#contentD .exp{width:138px;white-space: nowrap;overflow: hidden;text-align: left;text-overflow:ellipsis;}
+
+#contentE{margin-top: 20px;height: 230px;background: #fff;}
+#contentE .qiangguang{text-align: center;position: relative;height: 100%;}
+#contentE .qiangguang h1{position: absolute;font: 22px "微软雅黑";color: #333;left:390px;top:80px;text-align: left;}
+#contentE a{font: 12px "宋体";color: #1b80a9;position: absolute;left: 390px;} 
+#contentE .qiangguang .xd{top:130px;}
+#contentE .qiangguang .sy{top:150px;}
+#contentE .qg{background: url(../v1/ju/index/img/youhuiquan.png) no-repeat 0 -138px;position: absolute;width: 153px;height: 160px;left:250px;top:30px;}

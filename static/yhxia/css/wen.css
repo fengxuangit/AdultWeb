@@ -1,0 +1,49 @@
+.bottom{ width:980px; background:url(image/bg_63.gif) top repeat-x; background-color:#fff; padding-bottom:10px;margin:auto 0 }
+.bottom_tp{ width:980px; height:50px; background:url(image/bg_67.gif) bottom repeat-x;}
+.bottom_tp span{float:left;display:block;width:237px;height:44px;line-height:30px;text-align:center;font-size:16px;font-weight:bold;font-family:"Microsoft Yahei";background:url(image/bg_9.gif) top no-repeat; margin-top:5px; color:#fff;}
+.bottom_tp a{ float:right; display:block; line-height:50px; padding-right:20px; background:url(image/bg_68.gif) right center no-repeat; color:#000; margin-right:10px;}
+.bottom ul { overflow:hidden; }
+.bottom ul li {
+    float:left; 
+	width:440px; 
+	margin-left:20px;
+	border-bottom: 1px solid #ccc;
+    font-size: 14px;
+    height: 30px;
+    line-height: 30px;
+    text-align: left;}
+.bottom ul li a{
+    float:left; 
+	overflow:hidden;
+	width:310px; 	
+	border-bottom: 1px solid #ccc;
+    font-size: 14px;
+    height: 30px;
+    line-height: 30px;
+    text-align: left;}
+.bottom ul li img{ border:1px solid #ccc;}
+.bottom ul li p{ line-height:20px;}
+.bottom ul li span{
+    display: block;
+    float: right;
+    font-size: 14px;
+    height: 30px;
+    line-height: 30px;
+    padding: 0 0 10px;
+    text-align: right;
+    width: 110px;}
+*html .bottom ul li span{ line-height:20px;font-size:18px; font-family:Arial, Helvetica, sans-serif; font-weight:bold; color:#bb0305;}
+.bottom ul li a.go{ float:right; line-height:25px; color:#2571bd; text-decoration:underline; padding-right:10px;}
+
+.mains2 {width: 980px; height:auto;margin: 0 auto;overflow: hidden;}
+
+
+
+
+img, a, ul, li, input, textarea, select {
+    outline: medium none;
+}
+
+.content_text .page .pageNav{
+	padding-top:0px;
+}

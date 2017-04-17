@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document  */
+
+.indact{background: #f8c4d9 url(../v2/patch/img/p33524_1.jpg) no-repeat 50% 0;margin-bottom: 20px;margin-top: -20px;}
+.indact .bg2{background: url(../v2/patch/img/p33524_2.jpg) no-repeat 50% 77px;}
+.indact .bg3{background: url(../v2/patch/img/p33524_3.jpg) no-repeat 50% 141px;}
+.indact .bg4{background: url(../v2/patch/img/p33524_4.jpg) no-repeat 50% 227px;}
+.indact .area{height: 40px;padding-top: 260px;text-align: left;line-height: 23px;color:#333;}
+.indact .area span{float: left;padding: 0 50px 0 120px;}
+.indact .area span a{display: inline-block;width: 146px;height: 23px;_height: 24px;background: url(../v2/patch/img/p33524_5.png) no-repeat 0 0;vertical-align: middle;text-align: center;color:#fff;}
+.indact .area span a:hover{text-decoration: none;}
+.indact .area a{color:#09c;font-weight: bold;}
+
+/*大促未开始deal*/
+.zt4 .mark{display: block;}
+.zt4{border:1px solid #e2e2e2;border-color:#fff #e2e2e2 #e2e2e2 #fff;padding:1px;background: #fff;}
+.zt4.cur aside,.zt4 h5,.zt4 h6{display: none;}
+.dealbox .zt4.cur .mark{top:144px;right:0}
+.dealbox .zt4 h4 a{width: 88px;height: 33px;background: url(../v1/ju/index/img/deal_stat.png) no-repeat -1px -110px;_background-image:url(../v1/ju/index/img/deal_stat_ie6.png);color:#fff;text-decoration:none;text-align: center;font:14px/33px ""}
+.dealbox .zt4 h4 a:hover{background-position:-115px -110px;}
+.zt4 .ksicon,.zt4 .kticon{display: block;}
+.zt4 h4 span em{color:#49af3c;}
+.zt4 .kttime{display:block;}

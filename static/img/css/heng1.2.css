@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*主体左侧*/
+#contentA{}
+#contentA .left{width:720px;}
+.hengdeal .deal{width: 700px;height:305px;margin-bottom:20px;border:1px solid #e2e2e2;border-width:0 1px 1px 0;_overflow-y: hidden;}
+.hengdeal .deal img{float:left;display: inline;margin: 10px;width:280px;height:280px;}
+.hengdeal .deal .newicon {
+background: url(../v1/ju/index/img/deal_new.png) no-repeat 0 0;
+height: 41px;
+left: 10px;
+position: absolute;
+top: 10px;
+width: 41px;}
+.hengdeal .deal h3{font:18px/26px "微软雅黑";margin: 20px 20px 10px 0;height: 52px;}
+.hengdeal .deal h3 a{color:#333;}.zhid .deal h3 a:hover{color:#c00;}
+.hengdeal .deal .info{height:115px;font:12px/22px "";margin: 0 20px 10px;}
+.hengdeal .deal h4{height: 36px;line-height: 36px;text-align: left;color:#457b91;position: relative;margin: 10px 0px 10px;width: 380px;float:right;}
+.hengdeal .deal h4 em{font:18px/22px 'microsoft yahei'}
+.hengdeal .deal h4 a{display: block;width: 78px;height: 36px;position: absolute;right:20px;top:0;background:url(../v1/zhi/index/img/bg7.png);}
+.hengdeal .deal h4 a:hover{background-position: right 0px;}
+.hengdeal .deal h5{height: 20px;line-height: 20px;color:#999;font-family: Tahoma;float: right;padding: 10px 0;width:380px;background:none;}
+.hengdeal .deal h5 span{float:left;display: inline;background: url(../v1/zhi/index/img/icon-mini.png) no-repeat 0 center;padding-left: 18px;text-align: left;}
+.hengdeal .deal h5 span a{display: inline;background: none;padding: 0;}
+.hengdeal .deal h5 .pl{background-position:-125px center;}
+.hengdeal .deal h5 .ly{background-position:-235px center;}
+.hengdeal .deal h5 .fx{background-position:-320px 5px;float:right;margin-right:10px;position:relative;cursor:pointer;padding:0;border:1px solid #fff;}
+.hengdeal .deal h5 .fx u{padding:0 10px 0 20px;text-decoration:none;display:block;position:relative;z-index:1000;}
+.hengdeal .deal h5 .fx:hover{background-color:#f7f7f7;border:1px solid #e2e2e2;border-bottom:none;}
+.hengdeal .deal h5 .fx:hover .dropdown{display:block;}
+.hengdeal .deal h5 .fx:hover u{background:url(../v1/zhi/index/img/icon-mini.png) #f7f7f7 no-repeat -320px 5px;}
+.hengdeal .deal h5 .fx:hover .dropdown{display:block;}
+
+.hengdeal .deal h5 .fx .dropdown{display:none;position:absolute;z-index:999;padding:5px 5px 5px 8px;width:150px;background:#f7f7f7;border:1px solid #e2e2e2;right:-1px;bottom:-31px;}
+*html .hengdeal .deal h5 .dropdown{display:none;position:absolute;z-index:999;padding:5px 5px 5px 8px;width:150px;background:#f7f7f7;border:1px solid #e2e2e2;right:-1px;bottom:-31px;}
+*html .hengdeal .deal h5 .active .dropdown{display:block;}
+
+.hengdeal .deal h5 .fx a{display: inline-block;width: 20px;height: 20px;margin: 0 0 0 2px;background: url(../v1/zhi/index/img/bg2-24.png) 0 -201px;vertical-align: middle;}
+
+.hengdeal .deal h5 .fx a.qqwb{background-position: -22px -201px;}
+.hengdeal .deal h5 .fx a.renren{display: none;}
+.hengdeal .deal h5 .fx a.kaixin{background-position: -66px -201px;}
+.hengdeal .deal h5 .fx a.douban{background-position: -88px -201px;}
+.hengdeal .deal h5 .fx a.qzong{background-position: -110px -201px;}
+.hengdeal .deal h5 .fx a.sina:hover{background-position: -132px -201px;}
+.hengdeal .deal h5 .fx a.qqwb:hover{background-position: -154px -201px;}
+.hengdeal .deal h5 .fx a.kaixin:hover{background-position: -198px -201px;}
+.hengdeal .deal h5 .fx a.douban:hover{background-position: -220px -201px;}
+.hengdeal .deal h5 .fx a.qzong:hover{background-position: -242px -201px;}
+.hengdeal .djn{height:40px;padding: 20px 0;}
+.hengdeal .djn h3{font:18px/40px "微软雅黑";height:40px;overflow: hidden;margin: 0 20px;}
+.hengdeal .djn  img{display: none;}
+.hengdeal .djn .ysq{display: block;width: 80px;height: 65px;position: absolute;left:570px;top:7px;background: url(../v1/zhi/index/img/bg3.png) -144px -271px;_background: url(../v1/zhi/index/img/bg3_ie6.png) -144px -271px;}
+.hengdeal .djn .yjs{display: block;width: 80px;height: 65px;position: absolute;left:570px;top:7px;background: url(../v1/zhi/index/img/bg3.png) -7px -266px;_background: url(../v1/zhi/index/img/bg3_ie6.png) -7px -266px;}
+.hengdeal .djn .yzj{display: block;width: 80px;height: 65px;position: absolute;left:570px;top:7px;background: url(../v1/zhi/index/img/bg3.png) -10px -182px;_background: url(../v1/zhi/index/img/bg3_ie6.png) -10px -182px;}
+.hengdeal .zhid{margin-bottom: 20px;}
+.hengdeal .zhid .deal{height:70px;padding: 10px 0;margin-bottom: 0;}
+.hengdeal .zhid .deal img{width:93px;height:70px;margin:0;margin-left:45px;}
+.hengdeal .zhid .deal h3{font:18px/70px "微软雅黑";height:70px;overflow: hidden;margin: 0 20px 0 10px;padding-left:10px;}
+#contentD .l p .tooltip{left:280px}

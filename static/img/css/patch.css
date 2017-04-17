@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* CSS Document  */
+
+.side_nav{top: 220px;}
+.affix{top:0;}
+.jzdcls{position: relative;}
+.jzdcls b{display: block;width: 11px;height: 11px;position: absolute;right: 9px;top: 1px;background: url("../v1/ju/core/img/icon_head.png") no-repeat  0 0;overflow: hidden;}

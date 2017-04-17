@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* CSS Document */
+#dialog_from_gdt{position: absolute;background:#fffbeb;border: 5px solid #e6e6e6;z-index: 1000000;}
+#dialog_from_gdt,#dialog_from_gdt .diginfo{border:none;padding: 0;background: #f2f2f2;}
+#dialog_from_gdt span.close{width: 38px;height: 36px;background: url(../v1/global/img/pop_bg.png) no-repeat -262px 0;top:0;right:-38px;}
+#dialog_from_gdt img {cursor: pointer;}
+

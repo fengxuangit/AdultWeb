@@ -1,0 +1,68 @@
+/*底*/
+.footers{border-top: 3px solid #E02F2F;background: #fff;}
+.footers li{float: left;width: 105px;text-align: left;border-right: 1px solid #E1E1E1;padding: 30px 0 0 20px;height: 200px;line-height: 24px;}
+.footers li span{display: block;font:16px/30px "microsoft yahei";}
+.footers .lw a{display: block;color:#666;width: 100px;overflow: hidden;text-overflow:ellipsis;white-space:nowrap;height: 24px;}.footers .lw a:hover{color:#c00;}
+.footers li.w1{padding-left: 0;}
+.footers li.w2{width: 125px;}
+.footers li.w3{width: 180px;}
+.footers li.w3 h3 a{color:#c00;}
+.footers li.w3 h4 .bdtxt{color:#e02f2f;height:18px;line-height:18px;width:63px;padding-left:5px;}
+.footers li.w3 h4 .bdso{display:inline-block;*display:inline;*zoom:1;background:#fafafa no-repeat;}
+.footers li.w3 h4 input,.footers li.w3 h4 .bdso{border:1px solid #eaeaea;}
+.footers li.w3 h4 a.bdso{width:22px;height:20px;background-image:url(../v1/ju/core/img/icon_search_grey.png);background-position:center;opacity:.6;filter:alpha(opacity=60);border-color:#ddd;vertical-align:top;margin-top: 1px;}
+.footers li.w3 h4 .bdso{border-left:none;}
+.footers li.w3 h4 .bdso:hover{background-color:#FFF;}
+.footers li.w3 h6 .txt{height:20px;line-height:20px;width:63px;padding-left:5px;}
+.footers li.w3 h6 .bdso{display:inline-block;*display:inline;*zoom:1;background:#fafafa no-repeat;}
+.footers li.w3 h6 input,.footers li.w3 h6 .bdso{border:1px solid #eaeaea;vertical-align: middle;}
+.footers li.w3 h6 a.bdso{width:22px;height:20px;background-image:url(../v1/ju/core/img/icon_search_grey.png);background-position:center;opacity:.6;filter:alpha(opacity=60);border-color:#ddd;vertical-align:top;margin-top: 1px;}
+.footers li.w3 h6 .bdso{border-left:none;}
+.footers li.w3 h6 .bdso:hover{background-color:#FFF;}
+.footers li.w3 h6 .txt{height:21px;line-height:21px;width:120px;padding-left:5px;}
+.footers li.w3 h6 .dysmt{height:25px;line-height:25px;width:42px;cursor:pointer;color:#666;}
+.footers li.w4{width: 253px;border: none;}
+.footers li.w4 a{float:left;width:38px;height:52px;background:url(../v1/ju/core/img/icon_device_bottom_ie6.png) no-repeat;margin-right:11px;}
+.footers li.w4 a:hover{filter:alpha(opacity=50); -moz-opacity:0.8; opacity:0.8;}
+.footers li.w4 a.android{background-position:-49px 0;}
+.footers li.w4 a.wp{background-position:-98px 0;}
+.footers li.w4 a.wap{background-position:right 0;}
+.footers li.w4 h4{clear: left;line-height: 20px;padding-top: 10px;height: 80px;overflow: hidden;}
+.footers li.w4 h4 img{float:left;display: inline;margin:3px 10px 0 0;width: 72px;height: 73px;}
+.footers li.w4 h4 em{color:#E02F2F;}
+
+.friendly_links{margin: 20px auto 0;color:#666;width: 750px;}
+.friendly_links span{float: left;}
+.friendly_links .links{float: left;width: 620px;height:14px;overflow: hidden;position: relative;}
+.friendly_links .links ul{width: 1000px;height:14px;position: absolute;left:0;top:0}
+.friendly_links .links ul li{float: left;margin-right: 12px;}
+.friendly_links .links ul li a{color: #999;}
+.friendly_links .more{float: left;margin-left: 20px;color:#666;}
+.friendly_links .more:hover{color:#cc0000;}
+
+.footer{margin-top:10px;height:60px; line-height:30px;}
+.footer img{ vertical-align:middle;margin:0 auto; border:1px solid #c3bfbe;display:block;}
+#demo {
+overflow:hidden;
+width: 100%;height:22px;
+}
+#demo img {
+border:1px solid #F2F2F2;
+}
+#indemo {
+float: left;
+width: 900%;
+}
+#demo1 {
+float: left;
+}
+#demo2 {
+float: left;
+}
+.brandtxt{text-align:left;width:954px;border-bottom: 1px solid #e2e2e2;background-color: #fff;color:#C31403;padding:10px;font-size:18px;font-weight: bold;}
+#contentA .brandbox{height: auto;}
+#contentA .brand{height:87px;width: 120px;float: left;border: 1px solid #e2e2e2;background-color: #fff;padding-top: 1px;border-color:#fff #e2e2e2 #e2e2e2 #fff}
+#contentA .brand p{width:98%;height: 20px;text-align: center;}
+#contentA .brand:hover{border: 1px solid #ef6060;}
+#contentA .brand img{margin-top: 10px;width: 80px;height: 40px;text-align:center}
+#contentA .ctinue{height:87px;width: 120px;float: left;border: 1px solid #e2e2e2;background-color: #fff;padding-top: 1px;font-size: 12px;color: #999;line-height:87px;border-color:#fff #e2e2e2 #e2e2e2 #fff;text-decoration: none;cursor: default;}

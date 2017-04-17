@@ -1,0 +1,32 @@
+<?php
+	$b_table="yhxia_admin,yhxia_admin_auth,yhxia_admin_role,yhxia_article,yhxia_article_cate,yhxia_help,yhxia_items,yhxia_items_cate,yhxia_items_like,yhxia_items_orig,yhxia_link,yhxia_menu,yhxia_nav,yhxia_robots,yhxia_setting,yhxia_youhunquancaiji";
+	$tb[yhxia_admin]=1;
+$tb[yhxia_admin_auth]=1;
+$tb[yhxia_admin_role]=1;
+$tb[yhxia_article]=1;
+$tb[yhxia_article_cate]=1;
+$tb[yhxia_help]=1;
+$tb[yhxia_items]=42;
+$tb[yhxia_items_cate]=1;
+$tb[yhxia_items_like]=1;
+$tb[yhxia_items_orig]=1;
+$tb[yhxia_link]=1;
+$tb[yhxia_menu]=1;
+$tb[yhxia_nav]=1;
+$tb[yhxia_robots]=1;
+$tb[yhxia_setting]=1;
+$tb[yhxia_youhunquancaiji]=1;
+
+	$b_baktype=0;
+	$b_filesize=300;
+	$b_bakline=500;
+	$b_autoauf=1;
+	$b_dbname="ceshi";
+	$b_stru=1;
+	$b_strufour=0;
+	$b_dbchar="auto";
+	$b_beover=0;
+	$b_insertf="replace";
+	$b_autofield=",,";
+	$b_bakdatatype=0;
+	?>

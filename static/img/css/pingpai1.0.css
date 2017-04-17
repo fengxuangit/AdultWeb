@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+.dtit{width: 980px;float: left;height: 40px;font:22px/25px "微软雅黑";color:#333;overflow: hidden;border-bottom: 1px solid #d5d5d5;margin-bottom: 20px;}
+.dtit span{float: left;border-bottom: 5px solid #e73433;padding-bottom: 10px;}
+#contentC{margin-top: 20px;}
+#contentC .dtit{margin-top: 20px;}
+
+#contentA .brandbox{height: auto;}
+#contentA .brand{height:87px;width: 120px;float: left;border: 1px solid #e2e2e2;background-color: #fff;padding-top: 1px;border-color:#fff #e2e2e2 #e2e2e2 #fff}
+#contentA .brand p{width:98%;height: 20px;text-align: center;}
+#contentA .brand:hover{border: 1px solid #ef6060;}
+#contentA .brand img{margin-top: 10px;width: 80px;height: 40px;text-align:center}
+#contentA .ctinue{height:87px;width: 120px;float: left;border: 1px solid #e2e2e2;background-color: #fff;padding-top: 1px;font-size: 12px;color: #999;line-height:87px;border-color:#fff #e2e2e2 #e2e2e2 #fff;text-decoration: none;cursor: default;}
+
+#contentB .branddetail{width: 978px;border: 1px solid #e2e2e2;background-color: #fff;border-color:#fff #e2e2e2 #e2e2e2 #fff;margin-top: 20px;height: 382px}
+#contentB .tmailtag{background: url(../v1/ju/index/img/tmail.jpg) no-repeat;float:left;margin: 13px 5px 0px 0px;height: 16px;width: 17px}
+#contentB .bhead{height: 60px;background-color: #fff;border-bottom: 1px dotted #cecece;position: relative;}
+#contentB .bhead img{float: left;margin: 12.5px 10px 12.5px 20px;width: 70px;height: 35px;}
+#contentB .ckan{float: right;font: 12px "宋体";color: #e02f2f;border-bottom: 1px solid #e02f2f;margin: 22px 22px 22px 0;}
+#contentB .ckan:hover{text-decoration: none}
+#contentB .ckan i{font-weight: bold;}
+#contentB .tmail a{font:14px "宋体";font-weight: bold;color: #333;float:left;margin-top: 13px;width: 650px;text-align: left;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;}
+#contentB .tmail .ad{position: absolute;left: 100px;top:35px;font-size: 12px;font-weight: normal;color:#e02f2f;width: 650px;white-space: nowrap;text-align: left;overflow: hidden;text-overflow: ellipsis;}
+
+#contentB .deal div{width: 100%;}
+#contentB .deal .addborder{background: #fff;}
+#contentB .deal .addborder .mycol{top:2px;right:2px;}
+#contentB .branddetail_mw {width: 978px;border: 1px solid #e2e2e2;background-color: #fff;border-color:#fff #e2e2e2 #e2e2e2 #fff;margin-top: 20px;height: 200px}
+#contentB .branddetail_mw h1{color: #333;font-size: 14px;margin-top: 50px;}
+
+#contentE{margin-top: 20px;height: 230px;background: #fff;}
+#contentE .qiangguang{text-align: center;position: relative;height: 100%;}
+#contentE .qiangguang h1{position: absolute;font: 22px "微软雅黑";color: #333;left:390px;top:80px;text-align: left;}
+#contentE a{font: 12px "宋体";color: #1b80a9;position: absolute;left: 390px;} 
+#contentE .qiangguang .xd{top:130px;}
+#contentE .qiangguang .sy{top:150px;}
+#contentE .qg{background: url(../v1/ju/index/img/youhuiquan.png) no-repeat 0 -138px;position: absolute;width: 153px;height: 160px;left:250px;top:30px;}
